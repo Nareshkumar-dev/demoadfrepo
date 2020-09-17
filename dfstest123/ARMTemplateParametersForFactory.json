@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "dfstest123"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
